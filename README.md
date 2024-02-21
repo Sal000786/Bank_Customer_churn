@@ -1,4 +1,4 @@
-##End-to-End Bank Customer Churn Prediction and Deployment
+##End-to-End Bank Customer Churn Prediction and Deployment#
 
 #Overview
 This repository contains code and resources for an end-to-end solution for predicting bank customer churn using deep learning models. The project also includes a deployment component using Streamlit, allowing users to interactively explore and use the model through a user-friendly interface.
